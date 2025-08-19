@@ -151,6 +151,10 @@ npm start
 2. Set environment variables in the dashboard
 3. Deploy
 
+                <img width="1840" height="863" alt="image" src="https://github.com/user-attachments/assets/a715882a-797d-45aa-9d74-9921e3da2890" />
+
+
+
 ### Frontend Deployment (Vercel/Netlify)
 1. Connect your GitHub repository
 2. Set environment variables:
